@@ -1,4 +1,4 @@
-````markdown
+```markdown
 # Web Development Express (Mastery) 🚀 | MBS Coding
 
 Welcome to the official GitHub repository for the **Web Development Express (Mastery)** course by **MBS Coding**.
@@ -12,22 +12,23 @@ This course is your step-by-step guide to becoming a **full-stack web developer*
 
 ## 📚 Course Roadmap
 
-| ✅ Completed | 🔜 Coming Soon |
-|--------------|----------------|
-| HTML Mastery | Git & GitHub |
-| CSS Mastery  | Responsive Design |
-| JS Mastery   | React / Next.js |
-|              | Node.js & Express |
-|              | MongoDB / SQL |
-|              | REST APIs & Auth |
-|              | Full Projects |
-|              | Deployment |
+| ✅ Completed           | 🔜 Coming Soon         |
+|------------------------|------------------------|
+| HTML Mastery           | Git & GitHub           |
+| CSS Mastery            | Responsive Design      |
+| JavaScript Mastery     | React / Next.js        |
+|                        | Node.js & Express      |
+|                        | MongoDB / SQL          |
+|                        | REST APIs & Auth       |
+|                        | Full Projects          |
+|                        | Deployment             |
 
 ---
 
 ## 📁 Folder Structure
 
-```bash
+```
+
 web-development-express-mastery/
 ├── html-mastery/
 ├── css-mastery/
@@ -39,17 +40,18 @@ web-development-express-mastery/
 ├── mongodb/               # Coming soon
 ├── full-projects/         # Coming soon
 └── deployment/            # Coming soon
-````
+
+```
 
 ---
 
 ## 🔧 Technologies Covered
 
-* HTML, CSS, JavaScript (ES6+)
-* Git & GitHub
-* React.js, Node.js, Express.js
-* MongoDB, REST APIs
-* Deployment (Netlify, Vercel, etc.)
+- HTML, CSS, JavaScript (ES6+)
+- Git & GitHub
+- React.js, Node.js, Express.js
+- MongoDB, REST APIs
+- Deployment with Netlify, Vercel, etc.
 
 ---
 
@@ -58,7 +60,7 @@ web-development-express-mastery/
 1. Clone or download this repository.
 2. Go to the folder for the topic you’re watching on YouTube.
 3. Practice along with the video tutorials.
-4. Star ⭐ this repo to support the course!
+4. ⭐ Star this repo to support the course!
 
 ---
 
@@ -66,9 +68,9 @@ web-development-express-mastery/
 
 This course is created by **MBS Coding**, focused on delivering high-quality, easy-to-follow tutorials in Hindi.
 
-📌 YouTube Channel: [MBS Coding](https://www.youtube.com/@mbscoding)
-📸 Instagram: 
-📧 Email:
+- 📌 [YouTube Channel – MBS Coding](https://www.youtube.com/@mbscoding)  
+- 📸 [Instagram – 
+- 📧 Email – 
 
 ---
 
@@ -76,18 +78,16 @@ This course is created by **MBS Coding**, focused on delivering high-quality, ea
 
 If you find this helpful:
 
-* Subscribe to the channel
-* Share the playlist with friends
-* Give this repo a ⭐ on GitHub
+- Subscribe to the YouTube channel  
+- Share the playlist with friends  
+- Star ⭐ this repo on GitHub  
 
 ---
 
 ## 📄 License
 
-Licensed under the [MIT License](LICENSE).
-
+This project is licensed under the [MIT License](LICENSE).
 ```
 
 ---
-
 
