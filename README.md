@@ -5,9 +5,7 @@ Welcome to the official GitHub repository for the **Web Development Express (Mas
 
 This course is your step-by-step guide to becoming a **full-stack web developer**, starting from scratch and going all the way to professional-level skills.
 
-📺 **Watch the full course on YouTube**:  
-▶️ [Web Development Express (Mastery) - Playlist](https://www.youtube.com/playlist?list=PLqj8-TO8ccMbBnY55cGU3tk3hkcdtGCxU)
-
+📌 [Playlist Web Dev Expressl – MBS Coding](https://youtube.com/playlist?list=PLqj8-TO8ccMbBnY55cGU3tk3hkcdtGCxU&si=_ELdMTzwaw3JBJ5-)  
 ---
 
 ## 📚 Course Roadmap
@@ -27,7 +25,7 @@ This course is your step-by-step guide to becoming a **full-stack web developer*
 
 ## 📁 Folder Structure
 
-```
+
 
 web-development-express-mastery/
 ├── html-mastery/
@@ -41,7 +39,7 @@ web-development-express-mastery/
 ├── full-projects/         # Coming soon
 └── deployment/            # Coming soon
 
-```
+
 
 ---
 
