@@ -1,0 +1,35 @@
+/* 1 . Element Selector */
+
+h1{
+  color: red;
+  font-size: 15px;
+}
+
+/* 2. Class Selector */
+
+.header{
+  width: 200px;
+  background-color: aqua;
+}
+
+/* 3. Id Selector */
+
+#menu{
+  width: 200px;
+  background-color: blue;
+}
+
+/* 4. Descendent Selector */
+
+#footer h2{
+  font-weight: bold;
+  color: red;
+  font-size: 25px;
+}
+
+#footer a{
+  font-size: 20px;
+  text-decoration: none;
+}
+
+

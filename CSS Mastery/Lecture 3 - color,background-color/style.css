@@ -1,0 +1,14 @@
+h1 {
+  /* color: red;*/
+  color: #3300cc;
+  background-color: aqua;
+}
+
+p {
+  color: red;
+  background-color: yellow;
+}
+
+p span{
+  background-color: blueviolet;
+}
