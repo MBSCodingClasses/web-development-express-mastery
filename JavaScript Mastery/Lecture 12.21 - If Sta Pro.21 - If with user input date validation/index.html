@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>If Sta Pro.21 - If with user input date validation</title>
+  </head>
+  <body>
+    <script>
+      // User input mila
+
+      let userInput = "2025-06-15";
+
+      // convert user input to Date
+
+      let dob = new Date(userInput); // Date("2025-06-15") => Date(string) => Valid Date
+
+      // Dhoka
+
+      if (dob) {
+        // T
+        console.log("Valid");
+      }
+
+      // Samsya
+
+      // console.log(new Date("abcd"));
+
+      // dob.getTime();
+
+      // isNaN() => valid / invalid
+
+      // typeof dob.getTime(); // number
+
+      if (!isNaN(dob.getTime())) {// 2025-06-15
+      
+        console.log("Correct Date of Birth");
+      } else {
+        console.log("Plese enter valid date");
+      }
+    </script>
+  </body>
+</html>
